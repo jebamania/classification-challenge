@@ -13,3 +13,4 @@ Evaluate the models.
 
 ## Resources
 1.  https://static.bc-edx.com/ai/ail-v-1-0/m13/challenge/spam-data.csv
+a. Dataset Source: [UCI Machine Learning Library](https://archive.ics.uci.edu/dataset/94/spambase)
